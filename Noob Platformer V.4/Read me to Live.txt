@@ -1,0 +1,27 @@
+Textures used in the game are not my own, it is all owned by www.kennys.nl so you can 
+supprot him.
+
+and you can do anything with the code, you can go crazy, or you can yeet the code or cry with it
+no prob ;) 
+This is not completed yet, coz it is going according to my tutorial series on Honest Hamster!!!!
+
+Things I covered with the third episode-
+.How to make enemies attack you.
+.How you can attack enemies.
+.How to use timer.
+.How to dissable area2d and collision shape 2d
+
+Subscribe to my channel Honest Hamster-
+https://www.youtube.com/channel/UCoY6nur5i2ZOTH1i0B4rbKQ
+
+Watch the first episode-
+https://www.youtube.com/watch?v=rpppUYzUZdA&t=12s
+
+Watch the second episord-
+https://www.youtube.com/watch?v=wzZyVEI2fJw&t=70s
+
+Watch the third episode-
+https://youtu.be/yAnEjMN-VyQ
+
+Link to the whole Playlist-
+https://www.youtube.com/watch?v=rpppUYzUZdA&list=PLf0Z8AF0qFbKZk1BaSeO1P5um_Kt6xmv9
